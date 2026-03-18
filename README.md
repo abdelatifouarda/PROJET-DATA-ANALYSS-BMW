@@ -1,4 +1,4 @@
-# PROJET-DATA-ANALYSS-BMW
+# PROJET-DATA-ANALYSiS-BMW
 This project presents an end-to-end data analysis of BMW vehicle data with the goal of understanding sales behavior, pricing, and marketing efficiency across different vehicle categories.
 The focus is on transforming raw data into clear insights and actionable business recommendations.
 
